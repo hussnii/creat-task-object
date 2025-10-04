@@ -1,3 +1,3 @@
 # creat-task-object
-assignment six in NESDA goup
-#creating object with js
+assignment six in NESDA  sisters group
+# creating object with js
