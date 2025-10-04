@@ -1,2 +1,3 @@
 # creat-task-object
-assignment six in NESDA creating object with js
+assignment six in NESDA goup
+#creating object with js
